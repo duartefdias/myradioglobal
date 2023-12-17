@@ -1,6 +1,6 @@
 {
   "name": "myradioglobal",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "An SDK to access radio stations from around the world via myradioglobal´s official APIs.",
   "main": "./dist/index.js",
   "scripts": {

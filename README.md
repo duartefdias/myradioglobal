@@ -1,4 +1,9 @@
-# MyRadioGlobal
+<h1 align="center" >
+   <b>
+        <a href="https://www.myradioglobal.com"><img src="https://www.myradioglobal.com/main-logo.jfif" width="250"/></a><br>
+    </b>
+</h1>
+
 An SDK to access radio stations from around the world via [myradioglobal](https://www.myradioglobal.com)´s official APIs.
 
 ## Installation:
