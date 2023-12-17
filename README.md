@@ -1,6 +1,6 @@
 <h1 align="center" >
    <b>
-        <a href="https://www.myradioglobal.com"><img src="https://www.myradioglobal.com/main-logo.jfif" width="250"/></a><br>
+        <a href="https://www.myradioglobal.com"><img src="https://www.myradioglobal.com/main-logo.jpg" width="250"/></a><br>
     </b>
 </h1>
 
