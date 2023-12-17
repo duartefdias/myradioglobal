@@ -1,0 +1,29 @@
+{
+  "name": "myradioglobal",
+  "version": "1.0.2",
+  "description": "An SDK to access radio stations from around the world via myradioglobal´s official APIs.",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsup",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duartefdias/myradioglobal.git"
+  },
+  "keywords": [
+    "myradioglobal",
+    "radio"
+  ],
+  "author": "Duarte Dias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duartefdias/myradioglobal/issues"
+  },
+  "homepage": "https://github.com/duartefdias/myradioglobal#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "tsup": "^8.0.1",
+    "typescript": "^5.3.3"
+  }
+}
